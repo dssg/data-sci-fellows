@@ -1,0 +1,17 @@
+img {
+	margin-top: 30px;
+}
+.disciplines {
+	margin-top: 50px;
+	color: #95A5A6;
+}
+.contact-us img {
+	width: 100px;
+	margin-left: 50px;
+	margin-bottom: 60px;
+	float: left;
+}
+.contact-us .lead {
+	float: left;
+	margin: 60px 30px 0px 20px;
+}

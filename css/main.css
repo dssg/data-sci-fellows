@@ -1,8 +1,14 @@
 img {
-	margin-top: 30px;
+	margin: 30px 0 30px 0;
+}
+p {
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: 300;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .disciplines {
-	margin-top: 50px;
+	margin-top: 80px;
 	color: #95A5A6;
 }
 .contact-us img {

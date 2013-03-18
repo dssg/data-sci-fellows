@@ -1,5 +1,8 @@
 img {
-	margin: 30px 0 30px 0;
+	margin: 30px 0 0 0;
+}
+h1 {
+	margin-top: 20px;
 }
 p {
 	font-size: 16px;
@@ -8,7 +11,7 @@ p {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .disciplines {
-	margin-top: 80px;
+	margin-top: 50px;
 	color: #95A5A6;
 }
 .contact-us img {

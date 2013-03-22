@@ -24,3 +24,15 @@ p {
 	float: left;
 	margin: 60px 30px 0px 20px;
 }
+
+.team p {
+	text-align: center;
+}
+.team img {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+display: block;
+margin: 0 auto;
+margin-bottom: 20px;
+}
